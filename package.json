@@ -1,19 +1,13 @@
 {
   "name": "@dinhtrumdieu/findx-react-component-library",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/dinhtrumdieu"
-  },
-  "version": "0.1.5",
+  "repository": "dinhtrumdieu/findx-react-component-library",
+  "version": "0.1.6",
   "description": "A simple template for a custom React component library",
   "scripts": {
     "rollup": "rollup -c",
     "test": "jest",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dinhtrumdieu/findx-react-component-library.git"
   },
   "author": "findx",
   "license": "ISC",
