@@ -11,6 +11,10 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dinhtrumdieu/findx-react-component-library.git"
+  },
   "author": "findx",
   "license": "ISC",
   "devDependencies": {
